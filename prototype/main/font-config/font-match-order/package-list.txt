@@ -1,0 +1,72 @@
+
+
+##
+## # Font
+##
+
+
+
+
+##
+## ## Package / Font / dejavu
+##
+
+#dejavu-fonts-all
+dejavu-sans-fonts
+dejavu-sans-mono-fonts
+dejavu-serif-fonts
+#dejavusansmono-nerd-fonts
+
+
+
+
+##
+## ## Package / Font / ubuntu
+##
+
+#ubuntu-nerd-fonts
+#ubuntumono-nerd-fonts
+
+
+
+
+##
+## ## Package / Font / noto
+##
+
+
+google-noto-sans-cjk-vf-fonts
+google-noto-sans-mono-cjk-vf-fonts
+google-noto-serif-cjk-vf-fonts
+
+#google-noto-sans-fonts
+#google-noto-sans-cjk-fonts
+#google-noto-sans-mono-fonts
+#google-noto-serif-fonts
+#
+#google-noto-emoji-fonts
+#google-noto-color-emoji-fonts
+
+
+
+
+##
+## ## Package / Font / liberation
+##
+
+#liberation-fonts
+liberation-mono-fonts
+liberation-sans-fonts
+liberation-serif-fonts
+
+
+
+
+##
+## ## Package / Font / liberation
+##
+
+#jetbrains-mono-fonts-all
+jetbrains-mono-fonts
+#jetbrains-mono-nl-fonts
+#jetbrainsmono-nerd-fonts

@@ -1,0 +1,92 @@
+
+
+##
+## # fcitx5
+##
+
+
+##
+## ## Package / imsettings
+##
+
+imsettings
+
+
+
+
+##
+## ## Package / fcitx5
+##
+
+fcitx5
+fcitx5-configtool
+
+
+
+fcitx5-gtk2
+fcitx5-gtk3
+fcitx5-gtk4
+fcitx5-qt
+fcitx5-qt6
+
+
+
+
+##
+## ## Package / fcitx5 / fcitx5-chewing
+##
+
+fcitx5-chewing
+
+
+
+
+##
+## ## Package / fcitx5 / fcitx5-table
+##
+
+#fcitx5-chinese-addons
+#fcitx5-chinese-addons-data
+
+
+#fcitx5-table-extra
+#fcitx5-table-other
+
+
+
+
+##
+## ## Package / fcitx5 / fcitx5-zhuyin
+##
+
+#fcitx5-zhuyin
+#fcitx5-zhuyin-data
+
+
+
+
+##
+## ## Package / fcitx5 / fcitx5-rime
+##
+
+#fcitx5-rime
+
+
+
+
+##
+## ## Package / fcitx5 / fcitx5-mozc
+##
+
+#fcitx5-mozc
+
+
+
+
+##
+## ## Package / fcitx5 / ja
+##
+
+#fcitx5-anthy
+#fcitx5-skk
+#fcitx5-kkc
