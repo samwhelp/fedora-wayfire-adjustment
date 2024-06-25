@@ -8,7 +8,7 @@
 ## Config File Path
 
 
-### Wayfire
+### wayfire
 
 | Config File Path |
 | --- |

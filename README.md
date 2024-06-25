@@ -21,7 +21,7 @@
 
 | Adjustment |
 | -------- |
-| [Fedora Wayfire](https://github.com/samwhelp/fedora-wayfire-adjustment/tree/main/prototype/main/wayfire-config/Main) |
+| [Fedora Wayfire Config](https://github.com/samwhelp/fedora-wayfire-adjustment/tree/main/prototype/main/wayfire-config/Main) |
 
 
 
