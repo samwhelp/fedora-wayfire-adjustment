@@ -22,6 +22,7 @@
 | Script |
 | ------ |
 | [Fedora Wayfire Config](https://github.com/samwhelp/fedora-wayfire-adjustment/tree/main/prototype/main/wayfire-config/part/Main) |
+| [Tool Config](https://github.com/samwhelp/fedora-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
