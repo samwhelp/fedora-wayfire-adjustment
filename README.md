@@ -11,17 +11,17 @@
 
 ## Subject
 
-* [Adjustment](#adjustment)
+* [Script](#script)
 * [Link](#link)
 
 
 
 
-## Adjustment
+## Script
 
-| Adjustment |
-| -------- |
-| [Fedora Wayfire Config](https://github.com/samwhelp/fedora-wayfire-adjustment/tree/main/prototype/main/wayfire-config/Main) |
+| Script |
+| ------ |
+| [Fedora Wayfire Config](https://github.com/samwhelp/fedora-wayfire-adjustment/tree/main/prototype/main/wayfire-config/part/Main) |
 
 
 
